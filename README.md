@@ -1,2 +1,5 @@
 # stonex159.github.io
-My CISC275 Portfolio
+Braxton Madara
+stonex@udel.edu
+
+This is my CISC275 Portfolio
