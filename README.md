@@ -1,5 +1,5 @@
 # My CISC275 Portfolio
-Braxton Madara
+Braxton Madara |
 [Contact me](mailto:stonex@udel.edu) |
 [Link to repository](https://github.com/stonex159/stonex159.github.io) 
 
