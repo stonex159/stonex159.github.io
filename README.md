@@ -2,6 +2,6 @@
 Braxton Madara
 [Contact me](mailto:stonex@udel.edu)
 
-[Repository](https://github.com/stonex159/stonex159.github.io) 
+[Link to repository](https://github.com/stonex159/stonex159.github.io) 
 
 This is my portfolio
