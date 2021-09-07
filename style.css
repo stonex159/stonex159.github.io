@@ -1,7 +1,12 @@
 body {
-  background-color: black;
+  background-color: #4B3D3B;
   color: white;
   font-family: "EB Garamond", sans-serif;
+}
+
+main {
+  background-color: #FDF3F0;
+  Color: Black;
 }
 
 Footer {
