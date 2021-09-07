@@ -1,5 +1,5 @@
 body {
-  background-color: #4B3D3B;
+  background-color: #302725;
   color: white;
   font-family: "EB Garamond", sans-serif;
 }
@@ -7,6 +7,7 @@ body {
 main {
   background-color: #FDF3F0;
   Color: Black;
+  text-align: center
 }
 
 Footer {
