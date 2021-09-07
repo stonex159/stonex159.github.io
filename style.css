@@ -4,6 +4,16 @@ body {
   font-family: "EB Garamond", sans-serif;
 }
 
+#Portfolio {
+  width: 50%;
+  position: relative;
+}
+
+#Progress Report {
+  width:50%;
+  position: relative;
+}
+
 main {
   background-color: #FDF3F0;
   Color: Black;
