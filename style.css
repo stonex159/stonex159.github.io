@@ -1,22 +1,22 @@
 body {
   background-color: #302725;
-  color: white;
-  font-family: "EB Garamond", sans-serif;
+  rgb: (255,255,255);
+  basefont: "EB Garamond", sans-serif;
 }
 
-#Portfolio {
+.Portfolio {
   position: relative;
 }
 
-#Progress Report {
+.Progress Report {
   position: relative;
 }
 
 main {
   background-color: #FDF3F0;
-  Color: Black;
+  rgb: (0,0,0,0.8);
   text-align: center;
-  width: 50%;
+  
 }
 
 Footer {
