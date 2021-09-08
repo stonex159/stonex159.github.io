@@ -1,25 +1,16 @@
 body {
-  background-color: rgba (0,0,0,0.8);
+  background-color: rgba(0,0,0,0.8);
   color: Black;
   basefont: "EB Garamond", sans-serif;
 }
 
-.Portfolio {
-  position: relative;
-}
-
-.Progress Report {
-  position: relative;
-}
-
 main {
-  background-color: rgb (255,255,255);
+  background-color: rgb(255,255,255);
   color: white;
   text-align: center;
-  
 }
 
 Footer {
-  background-color: rgb (0,0,0);
+  background-color: rgb(0,0,0);
   text-align: center;
 }
