@@ -5,19 +5,18 @@ body {
 }
 
 #Portfolio {
-  width: 50%;
   position: relative;
 }
 
 #Progress Report {
-  width:50%;
   position: relative;
 }
 
 main {
   background-color: #FDF3F0;
   Color: Black;
-  text-align: center
+  text-align: center;
+  width: 50%;
 }
 
 Footer {
