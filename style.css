@@ -1,7 +1,7 @@
 body {
   background-color: rgba(0,0,0,0.8);
   color: White;
-  basefont: "EB Garamond", sans-serif;
+  family-font: "EB Garamond", sans-serif;
 }
 
 main {
