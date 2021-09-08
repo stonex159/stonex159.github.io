@@ -5,7 +5,6 @@ body {
   line-height: 1.5;
 }
 
-
 main {
   background-color: rgba(255,255,255, 0.8);
   color: Black;
@@ -22,6 +21,7 @@ h2 {
  font-size: 1.5em;
  line-height: 1.2;
 }
+
 Footer {
   background-color: rgba(0,0,0,0.8);
   text-align: center;
