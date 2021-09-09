@@ -17,6 +17,7 @@ On Sept. 9 I went to an ACM meeting at the behest of my TA Noah. There we were t
  - I learned the basics of HTML and CSS
  - I made a website playground to test my HTML/CSS/Javascript knowledge
  - I made a CSS file to augment the HTML file for the playground
+ - I created a seperate change log and todo list for my playground as well
 
 # TODO
  - Look into React
