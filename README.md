@@ -1,7 +1,14 @@
-# My CISC275 Portfolio
+# My Info
 Braxton Madara |
-[Contact me](mailto:stonex@udel.edu) |
-[Link to repository](https://github.com/stonex159/stonex159.github.io) 
+[My email](mailto:stonex@udel.edu) |
+[This portfolio's repository](https://github.com/stonex159/stonex159.github.io) 
+[My website playground](https://stonex159.github.io/HTML-Practice/)
 
-There will be new information soon. Please sit tight until then.
+# Portfolio
 
+# Change Log
+ - I learned the basics of HTML and CSS
+ - I made a website playground to test my HTML/CSS/Javascript knowledge
+ - I 
+
+# TODO
