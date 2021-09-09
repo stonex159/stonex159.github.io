@@ -2,7 +2,7 @@
 Braxton Madara |
 [My email](mailto:stonex@udel.edu) |
 [This portfolio's repository](https://github.com/stonex159/stonex159.github.io) |
-[My playground](https://stonex159.github.io/HTML-Practice/)
+[My playground](https://stonex159.github.io/My-Playground/)
 
 # Portfolio
 I learned the basics of HTML and CSS by reading all the information on this website: [Markdown](https://marksheet.io/).
