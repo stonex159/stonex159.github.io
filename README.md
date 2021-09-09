@@ -13,6 +13,8 @@ On Sept. 9 I went to an ACM meeting at the behest of my Lab TA, Noah. There we w
 
 In my playground I created a flexbox in my footer. I used this website to learn about [flexboxes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
+I've started this bootstrap [tutorial](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp).
+
 # Change Log
  - I learned the basics of HTML and CSS
  - I made a website playground to test my HTML/CSS/Javascript knowledge
