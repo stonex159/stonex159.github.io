@@ -23,6 +23,10 @@ I've started this bootstrap [tutorial](https://www.w3schools.com/bootstrap4/boot
  - I learned a bit about flexboxes
 
 # TODO
+Week 1
+ - Learn HTML and CSS
+Week 2
  - Look into React 
- - Look into Bootstrap to improve the playground
- - Create some Javascript for the playground, or maybe a new project to link to it.
+ - Look into Bootstrap [here](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) to make a new website, probably about Hololive
+ - ~~Create some Javascript for the playground, or maybe a new project to link to it.~~
+ - Create a game of Chess in react
