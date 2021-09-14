@@ -15,6 +15,10 @@ In my playground I created a flexbox in my footer. I used this website to learn 
 
 I've started this bootstrap [tutorial](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp).
 
+I went through the introduction and tutorial for React [here](https://reactjs.org/tutorial/tutorial.html). When I have access to a personal computer I will start making Chess.
+
+As of Sept. 14th I have remained forced to use github editor as my only editor as my computer has been decomissioned, not at my behest. Hopefully this will be solved by Sept. 15th.
+
 # Change Log
  - I learned the basics of HTML and CSS
  - I made a website playground to test my HTML/CSS/Javascript knowledge
