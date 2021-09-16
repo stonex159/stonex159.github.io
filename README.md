@@ -17,7 +17,7 @@ Week 1
  I've started this bootstrap [tutorial](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp).
 
 Week 2
- I followed the tutorial for [tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) and I want to use some of the features such as move history and history shifting in the chess game I am working on.
+ I followed the tutorial for [tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) and I want to use some of the features such as move history and history shifting in the chess game I am working on. I'm not sure how to deploy it yeat, without using Netlify, but here is the [repository](https://github.com/stonex159/Tic-Tac-Toe)
  
  I want to make predictions appear depending on the piece you are currently controlling (have picked up) in the chess game.
  
