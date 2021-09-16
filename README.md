@@ -20,11 +20,14 @@ I went through the introduction and tutorial for React [here](https://reactjs.or
 As of Sept. 14th I have remained forced to use github editor as my only editor as my computer has been decomissioned, not at my behest. Hopefully this will be solved by Sept. 15th.
 
 # Change Log
+Week 1
  - I learned the basics of HTML and CSS
  - I made a website playground to test my HTML/CSS/Javascript knowledge
  - I made a CSS file to augment the HTML file for the playground
  - I created a seperate change log and todo list for my playground as well
  - I learned a bit about flexboxes
+Week 2
+ - I went through the tutorial [here](https://reactjs.org/tutorial/tutorial.html that had me recreate tic-tac-toe in a browser.
 
 # TODO
 Week 1
