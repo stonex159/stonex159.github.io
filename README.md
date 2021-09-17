@@ -55,7 +55,7 @@ Week 2
  - Look into Bootstrap [here](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) to make a new website, probably about Hololive
  - ~~Create some Javascript for the playground, or maybe a new project to link to it.~~
  - Create a game of Chess in react
-Week 3
+Week 3  
  - Learn about react hooks [here](https://reactjs.org/docs/hooks-intro.html)
  - Get advice on committing properly to a repo from vscode
  - Look more into features such as [draggables](https://www.freecodecamp.org/news/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a/) and object manipulation via cursor in react, more specfically hovering and mouse events.
