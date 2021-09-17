@@ -5,7 +5,7 @@ Braxton Madara |
 [My playground](https://stonex159.github.io/My-Playground/)
 
 # Portfolio
-Week 1
+Week 1  
  I learned the basics of HTML and CSS by reading all the information on this website: [Markdown](https://marksheet.io/).
 
  I implemented a lot of that information to make a small website with a prototype portfolio that I was going to use as the main portfolio. But I want to now make that website a playground to link to other projects for Javascript and React. As well as showcase the HTML and CSS tricks I learn along the way. The Website is located in "My Info". I wanted the website to have two columns of info, but the positioning knowledge for that kept alluding me. 
@@ -16,7 +16,7 @@ Week 1
 
  I've started this bootstrap [tutorial](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp).
 
-Week 2
+Week 2  
  I followed the tutorial for [tic-tac-toe](https://reactjs.org/tutorial/tutorial.html) and I want to use some of the features such as move history and history shifting in the chess game I am working on. I'm not sure how to deploy it yeat, without using Netlify, but here is the [repository](https://github.com/stonex159/Tic-Tac-Toe)
  
  I want to make predictions appear depending on the piece you are currently controlling (have picked up) in the chess game.
@@ -28,19 +28,21 @@ Week 2
   
 
 # Change Log
-Week 1
+Week 1  
  - I learned the basics of HTML and CSS
  - I made a website playground to test my HTML/CSS/Javascript knowledge
  - I made a CSS file to augment the HTML file for the playground
  - I created a seperate change log and todo list for my playground as well
  - I learned a bit about flexboxes
-Week 2
- - I went through the tutorial [here](https://reactjs.org/tutorial/tutorial.html) that had me recreate tic-tac-toe in a browser.
+Week 2  
+ - I went through the react tutorial [here](https://reactjs.org/tutorial/tutorial.html) that had me recreate tic-tac-toe in a browser.
+ - I started a new website for my Casual Videogame Club. It will be purely for administative purposes.
+ - I 
 
 # TODO
-Week 1
+Week 1  
  - Learn HTML and CSS
-Week 2
+Week 2  
  - Look into React [tutorial](https://reactjs.org/tutorial/tutorial.html) and [hooks](https://reactjs.org/docs/hooks-intro.html)
  - Look into Bootstrap [here](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) to make a new website, probably about Hololive
  - ~~Create some Javascript for the playground, or maybe a new project to link to it.~~
