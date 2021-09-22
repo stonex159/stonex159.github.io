@@ -48,11 +48,13 @@ Week 1
  - I made a CSS file to augment the HTML file for the playground
  - I created a seperate change log and todo list for my playground as well
  - I learned a bit about flexboxes  
+   
 Week 2   
  - I went through the react tutorial [here](https://reactjs.org/tutorial/tutorial.html) that had me recreate tic-tac-toe in a browser.
  - I started a new website for my Casual Videogames Club. It is for administration, I plan to have it all donw in a week. Here is the [repo](https://github.com/stonex159/CVGC).
  - I've downloaded bootstrap and started to navigate and use it
- - I've created the repo for the chess game but i am having problems with the repo
+ - I've created the repo for the chess game but i am having problems with the repo  
+   
 Week 3
  - I converted the website I made for my club into a react app.
  - I watched Dr. Bart's video about react [here](https://www.youtube.com/watch?v=q8eYF6cUi5c)
@@ -61,12 +63,14 @@ Week 3
 # TODO
 Week 1   
  - Learn HTML and CSS  
+  
 Week 2   
  - Look into React [tutorial](https://reactjs.org/tutorial/tutorial.html) and [hooks](https://reactjs.org/docs/hooks-intro.html)
  - Look into Bootstrap [here](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) to make a new website, probably about Hololive
  - ~~Create some Javascript for the playground, or maybe a new project to link to it.~~
- - Create a game of Chess in react  
-Week 3  
+ - ~Create a game of Chess in react~  
+  
+Week 3   
  - ~Learn about react hooks [here](https://reactjs.org/docs/hooks-intro.html)~
  - ~Get advice on committing properly to a repo from vscode~
  - ~Look more into features such as [draggables](https://www.freecodecamp.org/news/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a/) and object manipulation via cursor in react, more specfically hovering and mouse events.~
