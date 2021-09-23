@@ -37,9 +37,11 @@ Week 3
 
  I changed my club website into a react app, here is the [repo](https://github.com/stonex159/CVGC-Site) and the website is coming. Watching Dr. Bart's video on craeting a the TA Trainer was very informative and helpful as I setup the club app. I am trying to expand upon what I saw since my app is decidely different in application. I want people to input their name email and the status of their daily health check then submit that through a button. That info will them be stored and displayed in a table below that information collection column. When a new day passes that information will be moved over to the history page to be documented and referencable if contact tracing or attendance rate wants to be investigated.
  
- Currently I having difficulties figuring how to make the form work as I am unfamiliar with forms in javascript. I've read some tutorials for them, like this [react/forms](https://reactjs.org/docs/forms.html) and this [Data Tables in React](https://shopify.engineering/building-data-table-component-react) but the structure of my app is so different that I need to think about how I can implement them cleanly, or how to reorder my app.
+ ~~Currently I having difficulties figuring how to make the form work as I am unfamiliar with forms in javascript. I've read some tutorials for them, like this [react/forms](https://reactjs.org/docs/forms.html) and this [Data Tables in React](https://shopify.engineering/building-data-table-component-react) but the structure of my app is so different that I need to think about how I can implement them cleanly, or how to reorder my app.
  
- Deploying the app to github pages is proving troublesome. I have followed [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) article on how to, but I keep running into trouble at the "deploy": "gh-pages -d build" part. My code refuse to use that with my app's name.
+ I have implemented a bootstrap form into my app, to gandle the collection of the information input.
+ 
+ ~~Deploying the app to github pages is proving troublesome. I have followed [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) article on how to, but I keep running into trouble at the "deploy": "gh-pages -d build" part. My code refuse to use that with my app's name.
 
 # Change Log
 Week 1   
@@ -72,9 +74,9 @@ Week 2
   
 Week 3   
  - ~Learn about react hooks [here](https://reactjs.org/docs/hooks-intro.html)~
- - ~Get advice on committing properly to a repo from vscode~
- - ~Look more into features such as [draggables](https://www.freecodecamp.org/news/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a/) and object manipulation via cursor in react, more specfically hovering and mouse events.~
+ - ~~Get advice on committing properly to a repo from vscode
+ - ~~Look more into features such as [draggables](https://www.freecodecamp.org/news/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a/) and object manipulation via cursor in react, more specfically hovering and mouse events
  - I need to connect the form on my react app to the table that stores the info inputted
  - I need to make a history page to track the attendees and their checks per week
  - Add a warning popup if their health check is yellow that directs them to places that administer the vaccine
- - Ask a TA how to deploy my react app to github pages
+ - ~~Ask a TA how to deploy my react app to github pages
