@@ -42,6 +42,8 @@ Week 3
  I have implemented a bootstrap form into my app, to gandle the collection of the information input.
  
  ~~Deploying the app to github pages is proving troublesome. I have followed [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) article on how to, but I keep running into trouble at the "deploy": "gh-pages -d build" part. My code refuse to use that with my app's name.
+ 
+ I completed Phase 1 of my club app, It can take a form and send the data to the dynamic table below to keep track of attendees. I still want to put a history page so that we can more accurately track the data in case we need to do contact tracing. Other features like alerts for yellow marks along with a message to advise the person on how to get a green mark would be good. I want this app to be usable even after I leave, so adding statistics or at least an frfamework to implement them would be awesome. Not sure if that would require a database though...
 
 # Change Log
 Week 1   
@@ -61,6 +63,8 @@ Week 3
  - I converted the website I made for my club into a react app.
  - I watched Dr. Bart's video about react [here](https://www.youtube.com/watch?v=q8eYF6cUi5c)
  - I added a form into my react app that takes a person's name, email, and health check status.
+ - I added a dynamic table that takes the form data submitted
+ - I completed my basic attendence react app. [Repo](https://github.com/stonex159/CVGC-Site)
 
 # TODO
 Week 1   
@@ -70,13 +74,17 @@ Week 2
  - Look into React [tutorial](https://reactjs.org/tutorial/tutorial.html) and [hooks](https://reactjs.org/docs/hooks-intro.html)
  - Look into Bootstrap [here](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) to make a new website, probably about Hololive
  - ~~Create some Javascript for the playground, or maybe a new project to link to it.~~
- - ~Create a game of Chess in react~  
+ - ~~Create a game of Chess in react~  
   
 Week 3   
  - ~Learn about react hooks [here](https://reactjs.org/docs/hooks-intro.html)~
- - ~~Get advice on committing properly to a repo from vscode
+ - Get advice on committing properly to a repo from vscode
  - ~~Look more into features such as [draggables](https://www.freecodecamp.org/news/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a/) and object manipulation via cursor in react, more specfically hovering and mouse events
  - I need to connect the form on my react app to the table that stores the info inputted
  - I need to make a history page to track the attendees and their checks per week
  - Add a warning popup if their health check is yellow that directs them to places that administer the vaccine
- - ~~Ask a TA how to deploy my react app to github pages
+ - Ask a TA how to deploy my react app to github pages  
+ 
+Week 4
+ - Add that alert for the yellow status along with a message to advise them
+ - Add the history page to track attendees and if they were previously warned
