@@ -63,7 +63,8 @@ Week 3
  - I converted the website I made for my club into a react app.
  - I watched Dr. Bart's video about react [here](https://www.youtube.com/watch?v=q8eYF6cUi5c)
  - I added a form into my react app that takes a person's name, email, and health check status.
- - I added a dynamic table that takes the form data submitted and adds a new row
+ - I added a dynamic table thanks to [this tutorial](https://dev.to/abodero/creating-a-dynamic-table-using-bootstrap-4-and-react-hooks-4a1m)
+ - I made the dynamic table able to accept the form data and add a new row upon submit
  - I properly deployed the app to github pages with some help from Dr. Bart
  - I completed my Phase 1 of my react app: [The repo](https://github.com/stonex159/CVGC-Site), [The site](https://stonex159.github.io/CVGC-Site/).
 
