@@ -86,5 +86,9 @@ Week 3
  - Ask a TA how to deploy my react app to github pages  
  
 Week 4
- - Add that alert for the yellow status along with a message to advise them
- - Add the history page to track attendees and if they were previously warned
+ - Add an alert for the yellow status along with a message to advise them
+ - Add a history page to track attendees and if they were previously warned
+ - empty the input boxes after a submit to prevent accidents
+ - add a button to remove a row from the table to rectify potential mistakes
+ - Add the CVGC club banner and logo to the page along with some css styling to spruce it up
+ - make a framework for analytic information, such as an graph of attendance pre month.
