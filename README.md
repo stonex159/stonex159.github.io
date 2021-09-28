@@ -93,4 +93,4 @@ Week 4
  - empty the input boxes after a submit to prevent accidents
  - add a button to remove a row from the table to rectify potential mistakes
  - Add the CVGC club banner and logo to the page along with some css styling to spruce it up
- - make a framework for analytic information, such as an graph of attendance pre month.
+ - make a framework for analytic information, such as an graph of attendance per month.
