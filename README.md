@@ -67,6 +67,9 @@ Week 3
  - I made the dynamic table able to accept the form data and add a new row upon submit
  - I properly deployed the app to github pages with some help from Dr. Bart
  - I completed my Phase 1 of my react app: [The repo](https://github.com/stonex159/CVGC-Site), [The site](https://stonex159.github.io/CVGC-Site/).
+   
+Week 4
+ - I added a modal that allows you to edit data in the table.
 
 # TODO
 Week 1   
