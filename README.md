@@ -43,7 +43,20 @@ Week 3
  
  ~~Deploying the app to github pages is proving troublesome. I have followed [this](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) article on how to, but I keep running into trouble at the "deploy": "gh-pages -d build" part. My code refuse to use that with my app's name.
  
- I completed Phase 1 of my club app, It can take a form and send the data to the dynamic table below to keep track of attendees. I still want to put a history page so that we can more accurately track the data in case we need to do contact tracing. Other features like alerts for yellow marks along with a message to advise the person on how to get a green mark would be good. I want this app to be usable even after I leave, so adding statistics or at least an frfamework to implement them would be awesome. Not sure if that would require a database though...
+ I completed Phase 1 of my club app. It can take a form and send the data to the dynamic table below to keep track of attendees. I still want to put a history page so that we can more accurately track the data in case we need to do contact tracing. Other features like alerts for yellow marks along with a message to advise the person on how to get a green mark would be good. I want this app to be usable even after I leave, so adding statistics or at least an frfamework to implement them would be awesome. Not sure if that would require a database though...
+ 
+Week 4
+
+I made an editModal that allows the user to edit the table to correct mistakes made during submission. I also added precautions for possible errors and allowed it to fill in the table with data found at the row number, for easy changes. This took me way longer than I expected. About 8 hours from start to finsih just for the Form. The modal itself was easy to make after looking up some attributes.
+ 
+I made alerts for the case of attendees not having met the health check requirements along with advisements for them. I also added the banner for the club with some slight styling to make it presentable. I'm not all that satisfied with it yet, so I am thinking of making my own banner for the club and using that. I also want to work more with custom css since I only had a small taste so far. 
+
+The TA's helped a lot with some of the crucial problems I ran into. Thank you very much Noah and Josh.
+
+In adding the alerts I learned a bit more about react hooks while troubleshooting, specifically useEffect. I haven't utilized that knowledge yet but it would be interesting to look into down the line.
+
+I still want to make the history page, but instead of a page I will make it a modal, also I want to allow it to preserve data from the current session and load it in the case of someone closing the tab and opening it again. I can just preserve the data at the end of the run into an array and have it utilize the current day for the recovery function and the current week for the book keeping feature.
+
 
 # Change Log
 Week 1   
@@ -70,6 +83,16 @@ Week 3
    
 Week 4
  - I added a modal that allows you to edit data in the table.
+ - I added our club banner to the app
+ - I added our club logo to the repository for future use
+ - I changed the status input from a textarea to a set of radio buttons
+ - I added margins to the buttons to make them look nicer
+ - I made the control panel follow a grid pattern
+ - I added measures to prevent the app from breaking or doing things it shouldn't, such as:
+    - clearing the input fields upon submission and/or exit of the modal
+    - preventing the index from reching the initializer or out of bounds of the array
+ - I added colors to the radio buttons respective to their values
+ - I added alerts for yellow and red status with advisements
 
 # TODO
 Week 1   
@@ -89,11 +112,17 @@ Week 3
  - I need to make a history page to track the attendees and their checks per week
  - Add a warning popup if their health check is yellow that directs them to places that administer the vaccine
  - Ask a TA how to deploy my react app to github pages  
- 
-Week 4
+    
+Week 4   
  - Add an alert for the yellow status along with a message to advise them
  - Add a history page to track attendees and if they were previously warned
  - empty the input boxes after a submit to prevent accidents
  - add a button to remove a row from the table to rectify potential mistakes
  - Add the CVGC club banner and logo to the page along with some css styling to spruce it up
  - make a framework for analytic information, such as an graph of attendance per month.
+   
+Week 5   
+ - Make the history modal
+ - Make the data searchable per week
+ - Preserve the data of a session at termination
+ - Load any data put in that day, especially in the case of accidental termination
