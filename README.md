@@ -49,7 +49,9 @@ Week 4
 
 I made an editModal that allows the user to edit the table to correct mistakes made during submission. I also added precautions for possible errors and allowed it to fill in the table with data found at the row number, for easy changes. This took me way longer than I expected. About 8 hours from start to finsih just for the Form. The modal itself was easy to make after looking up some attributes.
  
-I made alerts for the case of attendees not having met the health check requirements along with advisements for them. I also added the banner for the club with some slight styling to make it presentable. I'm not all that satisfied with it yet, so I am thinking of making my own banner for the club and using that. I also want to work more with custom css since I only had a small taste so far. 
+I made alerts for the case of attendees not having met the health check requirements along with advisements for them. I also added the banner for the club with some slight styling to make it presentable. I'm not all that satisfied with it yet, so I am thinking of making my own banner for the club and using that. I also want to work more with custom css since I only had a small taste so far.
+
+My club app [repo](https://github.com/stonex159/CVGC-Site) and [site](https://stonex159.github.io/CVGC-Site/)
 
 The TA's helped a lot with some of the crucial problems I ran into. Thank you very much Noah and Josh.
 
