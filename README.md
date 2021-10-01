@@ -57,7 +57,7 @@ The TA's helped a lot with some of the crucial problems I ran into. Thank you ve
 
 In adding the alerts I learned a bit more about react hooks while troubleshooting, specifically useEffect. I haven't utilized that knowledge yet but it would be interesting to look into down the line.
 
-I still want to make the history page, but instead of a page I will make it a modal, also I want to allow it to preserve data from the current session and load it in the case of someone closing the tab and opening it again. I can just preserve the data at the end of the run into an array and have it utilize the current day for the recovery function and the current week for the book keeping feature.
+I understand I don't need the TODO List now, but I want to continue developing this for my club's benefit. I still want to make the history page, but instead of a page I will make it a modal, also I want to allow it to preserve data from the current session and load it in the case of someone closing the tab and opening it again. I believe I can just preserve the data at the end of the run into an array and have it utilize the current day for the recovery function and the current week for the "book-keeping" feature.
 
 
 # Change Log
